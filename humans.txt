@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Susan Irwin susan.irwin@mercuryvmp.com
 
 # THANKS
 
